@@ -5,11 +5,17 @@
 Using the Pandas Python library inside a Jupyter Notebook, a report yielding the following is generated in order to produce meaningful insights:
 
 Player counts and purchasing analysis of their totals
+
 Purchase analysis of unique items
+
 Gender demographics
+
 Age demographics
+
 Top spenders
+
 Most popular items
+
 Most profitable items
 
 Results are displayed in corresponding Data Frames as well as a list of business insights extracted from the data.
